@@ -6,7 +6,7 @@ If you get stuck managing KK like I did and need a quick, easy way to randomly a
 
 - Download and intall docker destop if you don't already have it
 
-- Open the command prompt. (Type cmd in the search bar for windows )
+- Open the command prompt. (Type 'cmd' in the search bar for windows; type 'Terminal' in Spotlight search on Mac)
 
 ### `docker run -p 3000:80 timmyaws/simple-kk-sorter`
 
@@ -14,4 +14,8 @@ If you get stuck managing KK like I did and need a quick, easy way to randomly a
 
 - In the address bar type localhost:3000 The app should load and work!
 
-- When you are done ### `Ctrl C` in the command prompt
+- When you are done type
+
+### `Ctrl C`
+
+in the command prompt
