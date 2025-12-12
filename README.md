@@ -1,16 +1,17 @@
-# React + Vite
+## Super simple Kris Kringle sorter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+If you get stuck managing KK like I did and need a quick, easy way to randomly allocate everyone a KK this could help you out.
 
-Currently, two official plugins are available:
+# To run on your computer
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Download and intall docker destop if you don't already have it
 
-## React Compiler
+- Open the command prompt. (Type cmd in the search bar for windows )
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### `docker run -p 3000:80 timmyaws/simple-kk-sorter`
 
-## Expanding the ESLint configuration
+- Open a web browser, Chrome, Frefox etc
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- In the address bar type localhost:3000 The app should load and work!
+
+- When you are done ### `Ctrl C` in the command prompt

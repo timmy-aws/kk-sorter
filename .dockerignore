@@ -1,0 +1,6 @@
+# Exclude Git data
+.git
+.gitignore
+
+# Exclude Node.js modules (install within container)
+node_modules/
